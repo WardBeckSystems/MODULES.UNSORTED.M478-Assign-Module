@@ -34,7 +34,7 @@ Wiki page: [M478](../../../../PAGES/M478.md)
 - **Closed boxes:** 20
 - **Wiring (first pass):** 62 connected wire groups from 523 runs
 
-Every curve, box, word and wire group: [1984 - 478-02-009 - M478H SLATE ASSIGN MODULE SCHEMATIC - DRN HH - ENG PA - ISS 1 (traced).json](../SCHEMATICS/1984%20-%20478-02-009%20-%20M478H%20SLATE%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20HH%20-%20ENG%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `1984 - 478-02-009 - M478H SLATE ASSIGN MODULE SCHEMATIC - DRN HH - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1984 - 478-02-009 - M478H SLATE ASSIGN MODULE SCHEMATIC - DRN HH - ENG PA - ISS 1 (traced).json](../SCHEMATICS/1984%20-%20478-02-009%20-%20M478H%20SLATE%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20HH%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1984 - 478-02-009 - M478H SLATE ASSIGN MODULE SCHEMATIC - DRN HH - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

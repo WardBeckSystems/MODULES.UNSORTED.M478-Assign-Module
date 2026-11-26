@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (278, 11)–(431, 80) mm: ISSUE DATE · REVISION · APP · SYSTEMS · WBS WARD-BECK · M478 B · ENG_ EIT · A SSIGN · MODULE · CKD. · SCHEMATIC · APP · SCALE · 478-02-003 · ISSUE
 - **Wiring (first pass):** 65 connected wire groups from 341 runs; labelled ends: 754 mm → I5k $, Isk, VIZu; 105 mm → I5k; 64 mm → I5k; 62 mm → I5k $; 34 mm → V 1B,v
 
-Every curve, box, word and wire group: [19xx - M478 - DOC - 478-02-003 - SSIGN MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M478%20-%20DOC%20-%20478-02-003%20-%20SSIGN%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M478 - DOC - 478-02-003 - SSIGN MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M478 - DOC - 478-02-003 - SSIGN MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M478%20-%20DOC%20-%20478-02-003%20-%20SSIGN%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M478 - DOC - 478-02-003 - SSIGN MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

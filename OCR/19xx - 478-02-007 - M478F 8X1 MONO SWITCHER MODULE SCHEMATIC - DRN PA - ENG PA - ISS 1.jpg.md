@@ -37,7 +37,7 @@ Wiki page: [M478](../../../../PAGES/M478.md)
 - **Title block:** (279, 10)–(432, 78) mm: ISSUE DATE · REVISION · APP: · WBS WARD-BECK SYSTEMS · DRN PA · M478F · ENG_ PA · 8X1 MONO SWITCHER MODULE · CKD: · APP · SCHEMATIC · SCALE · 478-02-007 · ISSUE
 - **Wiring (first pass):** 66 connected wire groups from 425 runs, 3 dotted junctions; labelled ends: 531 mm → 7I/; 392 mm → ~se]common; 143 mm → CTL4, CoNTROLS; 143 mm → INPUTS; 29 mm → I2,N, 22,2
 
-Every curve, box, word and wire group: [19xx - 478-02-007 - M478F 8X1 MONO SWITCHER MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20478-02-007%20-%20M478F%208X1%20MONO%20SWITCHER%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 478-02-007 - M478F 8X1 MONO SWITCHER MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 478-02-007 - M478F 8X1 MONO SWITCHER MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20478-02-007%20-%20M478F%208X1%20MONO%20SWITCHER%20MODULE%20SCHEMATIC%20-%20DRN%20PA%20-%20ENG%20PA%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 478-02-007 - M478F 8X1 MONO SWITCHER MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1 (traced).dxf`).
 
 ## Full text
 

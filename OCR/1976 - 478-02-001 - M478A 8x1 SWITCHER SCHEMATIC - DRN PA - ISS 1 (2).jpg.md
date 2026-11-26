@@ -37,7 +37,7 @@ Wiki page: [M478](../../../../PAGES/M478.md)
 - **Title block:** (141, 31)–(378, 82) mm: ISSMODICKD · USEDON · MATL · WBS WAAD-BeCK bybTeMS · DRN · PA · M478A · DATE July 76 · FINISH · 8*1 SwitcheR · CKD. · SCHEMATIC · FSCALE · TOLS
 - **Wiring (first pass):** 64 connected wire groups from 327 runs, 5 dotted junctions; labelled ends: 131 mm → 478-02 -ooi; 78 mm → 478-02 -ooi; 35 mm → LTDS, bybTeMS; 31 mm → 620; 25 mm → 721
 
-Every curve, box, word and wire group: [1976 - 478-02-001 - M478A 8x1 SWITCHER SCHEMATIC - DRN PA - ISS 1 (2) (traced).json](../SCHEMATICS/1976%20-%20478-02-001%20-%20M478A%208x1%20SWITCHER%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `1976 - 478-02-001 - M478A 8x1 SWITCHER SCHEMATIC - DRN PA - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 478-02-001 - M478A 8x1 SWITCHER SCHEMATIC - DRN PA - ISS 1 (2) (traced).json](../SCHEMATICS/1976%20-%20478-02-001%20-%20M478A%208x1%20SWITCHER%20SCHEMATIC%20-%20DRN%20PA%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1976 - 478-02-001 - M478A 8x1 SWITCHER SCHEMATIC - DRN PA - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

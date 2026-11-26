@@ -36,7 +36,7 @@ Wiki page: [M478](../../../../PAGES/M478.md)
 - **Title block:** (278, 13)–(432, 81) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN_ene [MMz · M478C · ENG. ElJ · ASSIGN MODULE · CKD: · SCHEMATIC · APP · SCALE · ISSUE · 478-02-004
 - **Wiring (first pass):** 72 connected wire groups from 440 runs; labelled ends: 816 mm → Sisk, I5k, {i5k, Si5k; 701 mm → Sisk, {i5k, I5k, Xi5k; 70 mm → Snz, gij; 61 mm → <14; 60 mm → Zlo 5
 
-Every curve, box, word and wire group: [1978 - 478-02-004 - M478C ASSIGN MODULE SCHEMATIC - DRN gene - ENG ELJ - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20478-02-004%20-%20M478C%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20gene%20-%20ENG%20ELJ%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 478-02-004 - M478C ASSIGN MODULE SCHEMATIC - DRN gene - ENG ELJ - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 478-02-004 - M478C ASSIGN MODULE SCHEMATIC - DRN gene - ENG ELJ - ISS 1 (traced).json](../SCHEMATICS/1978%20-%20478-02-004%20-%20M478C%20ASSIGN%20MODULE%20SCHEMATIC%20-%20DRN%20gene%20-%20ENG%20ELJ%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 478-02-004 - M478C ASSIGN MODULE SCHEMATIC - DRN gene - ENG ELJ - ISS 1 (traced).dxf`).
 
 ## Full text
 
