@@ -1,6 +1,6 @@
 # M478 Assign Module · Routing
 
-Ward-Beck Systems M478, 1976|9. Wiki page: [M478 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M478.html)
+Ward-Beck Systems M478, 1976|9. Wiki page: [M478 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M478-Assign-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1984 - 478-02-009 - M478H SLATE ASSIGN MODULE SCHEMATIC - DRN HH - ENG PA - ISS 1 (2).jpg
-Wiki page: [M478](../../../../PAGES/M478.md)
+Wiki page: [M478](../)
 
 
 - **Year:** 1984 (title block date)

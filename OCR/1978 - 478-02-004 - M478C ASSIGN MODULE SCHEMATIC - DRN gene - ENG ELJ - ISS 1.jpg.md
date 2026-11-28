@@ -1,5 +1,5 @@
 # 1978 - 478-02-004 - M478C ASSIGN MODULE SCHEMATIC - DRN gene - ENG ELJ - ISS 1.jpg
-Wiki page: [M478](../../../../PAGES/M478.md)
+Wiki page: [M478](../)
 
 
 - **Year:** 1978 (title block date)

@@ -1,5 +1,5 @@
 # 1976 - 478-02-001 - M478A 8x1 SWITCHER SCHEMATIC - DRN PA - ISS 1.jpg
-Wiki page: [M478](../../../../PAGES/M478.md)
+Wiki page: [M478](../)
 
 
 - **Year:** 1976 (title block date)

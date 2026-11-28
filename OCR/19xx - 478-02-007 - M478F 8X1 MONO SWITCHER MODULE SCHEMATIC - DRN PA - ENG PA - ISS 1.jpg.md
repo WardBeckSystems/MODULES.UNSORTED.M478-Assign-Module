@@ -1,5 +1,5 @@
 # 19xx - 478-02-007 - M478F 8X1 MONO SWITCHER MODULE SCHEMATIC - DRN PA - ENG PA - ISS 1.jpg
-Wiki page: [M478](../../../../PAGES/M478.md)
+Wiki page: [M478](../)
 
 
 - **Year:** unknown (title block (read by eye))
